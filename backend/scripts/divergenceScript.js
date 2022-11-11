@@ -1,4 +1,5 @@
-const fs = require('fs');
+const fs = require("fs");
+const { STATE_NAMES } = require("../sharedValues")
 const dataArray = [
 	{ metroArea: "New York-Northern New Jersey-Long Island, NY-NJ-PA", divergence: 0.4302},
 	{ metroArea: "Chicago-Joliet-Naperville, IL-IN-WI", divergence: 0.428},
@@ -223,65 +224,6 @@ const dataArray = [
 	{ metroArea: "Laredo, TX", divergence: 0.0258}
 ]
 
-const stateNames = {
-	AL: "Alabama",
-	AK: "Alaska",
-	AZ: "Arizona",
-	AR: "Arkansas",
-	CA: "California",
-	CO: "Colorado",
-	CT: "Connecticut",
-	DC: "Washington DC",
-	DE: "Delaware",
-	FL: "Florida",
-	GA: "Georgia",
-	HI: "Hawaii",
-	ID: "Idaho",
-	IL: "Illinois",
-	IN: "Indiana",
-	IA: "Iowa",
-	KS: "Kansas",
-	KY: "Kentucky",
-	LA: "Louisiana",
-	ME: "Maine",
-	MD: "Maryland",
-	MA: "Massachusetts",
-	MI: "Michigan",
-	MN: "Minnesota",
-	MS: "Mississippi",
-	MO: "Missouri",
-	MT: "Montana",
-	NE: "Nebraska",
-	NV: "Nevada",
-	NH: "New Hampshire",
-	NJ: "New Jersey",
-	NM: "New Mexico",
-	NY: "New York",
-	NC: "North Carolina",
-	ND: "North Dakota",
-	OH: "Ohio",
-	OK: "Oklahoma",
-	OR: "Oregon",
-	PA: "Pennsylvania",
-	RI: "Rhode Island",
-	SC: "South Carolina",
-	SD: "South Dakota",
-	TN: "Tennessee",
-	TX: "Texas",
-	UT: "Utah",
-	VT: "Vermont",
-	VA: "Virginia",
-	WA: "Washington",
-	WV: "West Virginia",
-	WI: "Wisconsin",
-	WY: "Wyoming",
-
-	// edge cases
-	"SC Micropolitan Statistical Area": "South Carolina",
-	"DE Micropolitan Statistical Area": "Delaware",
-	"AL Micropolitan Statistical Area": "Alabama",
-}
-
 const results = {}
 
 dataArray.forEach(data => {
@@ -303,7 +245,7 @@ dataArray.forEach(data => {
 	})
 })
 
-fs.appendFile("metroData.csv", "Metro Area,State,Divergence\n", err => {
+fs.writeFile("./divergenceData.csv", "Metro Area,State,Divergence\n", err => {
 	if (err) {
 		console.error(err)
 	}
@@ -311,8 +253,8 @@ fs.appendFile("metroData.csv", "Metro Area,State,Divergence\n", err => {
 
 Object.keys(results).forEach(state => {
 	results[state].forEach(metroInfo => {
-		const content = `${metroInfo.metroArea},${stateNames[state]},${metroInfo.divergence}\n`
-		fs.appendFile("metroData.csv", content, err => {
+		const content = `${metroInfo.metroArea},${STATE_NAMES[state]},${metroInfo.divergence}\n`
+		fs.appendFile("./divergenceData.csv", content, err => {
 			if (err) {
 				console.error(err)
 			}
