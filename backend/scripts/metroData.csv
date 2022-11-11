@@ -1,0 +1,263 @@
+Metro Area,State,Divergence
+New York-Northern New Jersey-Long Island,New York,0.4302
+Rochester,New York,0.2131
+Buffalo-Niagara Falls,New York,0.27
+Utica-Rome,New York,0.1548
+Albany-Schenectady-Troy,New York,0.1507
+Poughkeepsie-Newburgh-Middletown,New York,0.1421
+Syracuse,New York,0.1731
+New York-Northern New Jersey-Long Island,New Jersey,0.4302
+Trenton-Ewing,New Jersey,0.3455
+Philadelphia-Camden-Wilmington,New Jersey,0.3294
+Atlantic City-Hammonton,New Jersey,0.2635
+Allentown-Bethlehem-Easton,New Jersey,0.1723
+New York-Northern New Jersey-Long Island,Pennsylvania,0.4302
+Philadelphia-Camden-Wilmington,Pennsylvania,0.3294
+Reading,Pennsylvania,0.2385
+Harrisburg-Carlisle,Pennsylvania,0.1857
+Allentown-Bethlehem-Easton,Pennsylvania,0.1723
+Youngstown-Warren-Boardman,Pennsylvania,0.1682
+Scranton--Wilkes-Barre,Pennsylvania,0.1451
+Pittsburgh,Pennsylvania,0.1529
+Lancaster,Pennsylvania,0.1288
+Erie,Pennsylvania,0.1284
+Chicago-Joliet-Naperville,Illinois,0.428
+York-Hanover,Pennsylvania,0.12
+St. Louis,Illinois,0.2822
+Champaign-Urbana,Illinois,0.181
+Peoria,Illinois,0.1853
+Rockford,Illinois,0.1751
+Chicago-Joliet-Naperville,Indiana,0.428
+Davenport-Moline-Rock Island,Illinois,0.114
+Cincinnati-Middletown,Indiana,0.2051
+Springfield,Illinois,0.1411
+Louisville/Jefferson County,Indiana,0.1877
+Indianapolis-Carmel,Indiana,0.2322
+South Bend-Mishawaka,Indiana,0.1788
+Fort Wayne,Indiana,0.1871
+Evansville,Indiana,0.0894
+Binghamton,New York,0.0928
+Minneapolis-St. Paul-Bloomington,Wisconsin,0.1594
+Milwaukee-Waukesha-West Allis,Wisconsin,0.3811
+Green Bay,Wisconsin,0.1225
+Chicago-Joliet-Naperville,Wisconsin,0.428
+Appleton,Wisconsin,0.078
+Madison,Wisconsin,0.0944
+Detroit-Warren-Livonia,Michigan,0.3789
+Flint,Michigan,0.2642
+South Bend-Mishawaka,Michigan,0.1788
+Duluth,Wisconsin,0.0558
+Ann Arbor,Michigan,0.1781
+Lafayette,Indiana,0.1255
+Grand Rapids-Wyoming,Michigan,0.1774
+Kalamazoo-Portage,Michigan,0.121
+Holland-Grand Haven,Michigan,0.0917
+Lansing-East Lansing,Michigan,0.1432
+Naples-Marco Island,Florida,0.2127
+Orlando-Kissimmee-Sanford,Florida,0.2111
+Miami-Fort Lauderdale-Pompano Beach,Florida,0.3702
+Jacksonville,Florida,0.2035
+Tampa-St. Petersburg-Clearwater,Florida,0.1926
+Elkhart-Goshen,Indiana,0.107
+Cape Coral-Fort Myers,Florida,0.1806
+Lakeland-Winter Haven,Florida,0.1592
+Port St. Lucie,Florida,0.1651
+Deltona-Daytona Beach-Ormond Beach,Florida,0.161
+North Port-Bradenton-Sarasota,Florida,0.1437
+Pensacola-Ferry Pass-Brent,Florida,0.1294
+Ocala,Florida,0.1257
+Palm Bay-Melbourne-Titusville,Florida,0.1007
+Crestview-Fort Walton Beach-Destin,Florida,0.0537
+Los Angeles-Long Beach-Santa Ana,California,0.3534
+Salinas,California,0.2755
+San Francisco-Oakland-Fremont,California,0.2648
+Bakersfield-Delano,California,0.2368
+San Diego-Carlsbad-San Marcos,California,0.2364
+San Jose-Sunnyvale-Santa Clara,California,0.2258
+Santa Cruz-Watsonville,California,0.2183
+Oxnard-Thousand Oaks-Ventura,California,0.2166
+Gainesville,Florida,0.1392
+Tallahassee,Florida,0.1659
+Santa Barbara-Santa Maria-Goleta,California,0.1896
+Sacramento--Arden-Arcade--Roseville,California,0.1869
+Riverside-San Bernardino-Ontario,California,0.1813
+Stockton,California,0.1671
+Vallejo-Fairfield,California,0.1553
+Visalia-Porterville,California,0.1264
+Merced,California,0.1108
+Modesto,California,0.1209
+Santa Rosa-Petaluma,California,0.1024
+Fresno,California,0.195
+Chico,California,0.0789
+Cleveland-Elyria-Mentor,Ohio,0.3324
+Cincinnati-Middletown,Ohio,0.2051
+Dayton,Ohio,0.2178
+Columbus,Ohio,0.2145
+San Luis Obispo-Paso Robles,California,0.0873
+Toledo,Ohio,0.1818
+Youngstown-Warren-Boardman,Ohio,0.1682
+Canton-Massillon,Ohio,0.1028
+Huntington-Ashland,Ohio,0.0559
+Philadelphia-Camden-Wilmington,Delaware,0.3294
+Philadelphia-Camden-Wilmington,Maryland,0.3294
+Baltimore-Towson,Maryland,0.312
+Washington-Arlington-Alexandria,Maryland,0.3118
+Hagerstown-Martinsburg,Maryland,0.0789
+Beaumont-Port Arthur,Texas,0.3233
+Houston-Sugar Land-Baytown,Texas,0.2995
+Dallas-Fort Worth-Arlington,Texas,0.2864
+Akron,Ohio,0.165
+Tyler,Texas,0.1905
+Amarillo,Texas,0.2144
+San Antonio-New Braunfels,Texas,0.1881
+Austin-Round Rock-San Marcos,Texas,0.1695
+Waco,Texas,0.1759
+Corpus Christi,Texas,0.1594
+College Station-Bryan,Texas,0.1677
+Killeen-Temple-Fort Hood,Texas,0.1331
+Longview,Texas,0.1147
+El Paso,Texas,0.0986
+McAllen-Edinburg-Mission,Texas,0.0582
+Laredo,Texas,0.0258
+Brownsville-Harlingen,Texas,0.0575
+New Orleans-Metairie-Kenner,Louisiana,0.323
+Lubbock,Texas,0.1495
+Lake Charles,Louisiana,0.2451
+Shreveport-Bossier City,Louisiana,0.2375
+Lafayette,Louisiana,0.1538
+Houma-Bayou Cane-Thibodaux,Louisiana,0.136
+Atlanta-Sandy Springs-Marietta,Georgia,0.3203
+Columbus,Georgia,0.229
+Macon,Georgia,0.2105
+Savannah,Georgia,0.2054
+Chattanooga,Georgia,0.1959
+Augusta-Richmond County,Georgia,0.184
+Baton Rouge,Louisiana,0.2689
+Athens-Clarke County,Georgia,0.1628
+Memphis,Tennessee,0.3155
+Chattanooga,Tennessee,0.1959
+Clarksville,Tennessee,0.1218
+Nashville-Davidson--Murfreesboro--Franklin,Tennessee,0.185
+Knoxville,Tennessee,0.1088
+Memphis,Mississippi,0.3155
+Kingsport-Bristol-Bristol,Tennessee,0.0377
+Jackson,Mississippi,0.2532
+Gulfport-Biloxi,Mississippi,0.1369
+Memphis,Arkansas,0.3155
+Little Rock-North Little Rock-Conway,Arkansas,0.2243
+Fort Smith,Arkansas,0.1691
+Fayetteville-Springdale-Rogers,Arkansas,0.157
+Washington-Arlington-Alexandria,Washington DC,0.3118
+Washington-Arlington-Alexandria,Virginia,0.3118
+Richmond,Virginia,0.2335
+Virginia Beach-Norfolk-Newport News,Virginia,0.1925
+Roanoke,Virginia,0.1648
+Lynchburg,Virginia,0.1009
+Charlottesville,Virginia,0.0924
+Kingsport-Bristol-Bristol,Virginia,0.0377
+Washington-Arlington-Alexandria,West Virginia,0.3118
+Charleston,West Virginia,0.084
+Hagerstown-Martinsburg,West Virginia,0.0789
+Huntington-Ashland,West Virginia,0.0559
+Birmingham-Hoover,Alabama,0.2954
+Mobile,Alabama,0.2671
+Tuscaloosa,Alabama,0.2531
+Montgomery,Alabama,0.2494
+Columbus,Alabama,0.229
+Huntsville,Alabama,0.1685
+St. Louis,Missouri,0.2822
+Kansas City,Missouri,0.2085
+Fayetteville-Springdale-Rogers,Missouri,0.157
+Springfield,Missouri,0.0487
+Bridgeport-Stamford-Norwalk,Connecticut,0.2424
+Hartford-West Hartford-East Hartford,Connecticut,0.268
+New Haven-Milford,Connecticut,0.2333
+Norwich-New London,Connecticut,0.1242
+Boston-Cambridge-Quincy,Massachusetts,0.2556
+Springfield,Massachusetts,0.2461
+Worcester,Massachusetts,0.149
+Providence-New Bedford-Fall River,Massachusetts,0.2007
+Barnstable Town,Massachusetts,0.0692
+Boston-Cambridge-Quincy,New Hampshire,0.2556
+Manchester-Nashua,New Hampshire,0.09
+Yakima,Washington,0.2324
+Kennewick-Pasco-Richland,Washington,0.1589
+Seattle-Tacoma-Bellevue,Washington,0.1468
+Portland-Vancouver-Hillsboro,Washington,0.1051
+Bellingham,Washington,0.0696
+Olympia,Washington,0.0671
+Bremerton-Silverdale,Washington,0.0648
+Spokane,Washington,0.0507
+Greensboro-High Point,North Carolina,0.2287
+Winston-Salem,North Carolina,0.2257
+Charlotte-Gastonia-Rock Hill,North Carolina,0.2236
+Durham-Chapel Hill,North Carolina,0.2039
+Virginia Beach-Norfolk-Newport News,North Carolina,0.1925
+Raleigh-Cary,North Carolina,0.1775
+Wilmington,North Carolina,0.1192
+Fayetteville,North Carolina,0.1068
+Hickory-Lenoir-Morganton,North Carolina,0.106
+Asheville,North Carolina,0.0835
+Charlotte-Gastonia-Rock Hill,South Carolina,0.2236
+Columbia,South Carolina,0.2071
+Augusta-Richmond County,South Carolina,0.184
+Charleston-North Charleston-Summerville,South Carolina,0.1468
+Florence,South Carolina,0.1437
+Greenville-Mauldin-Easley,South Carolina,0.1396
+Spartanburg,South Carolina,0.1298
+Myrtle Beach-North Myrtle Beach-Conway,South Carolina,0.1132
+Phoenix-Mesa-Glendale,Arizona,0.2199
+Tucson,Arizona,0.2158
+Yuma,Arizona,0.2143
+Lake Havasu City-Kingman,Arizona,0.084
+Prescott,Arizona,0.0531
+Honolulu,Hawaii,0.209
+Kansas City,Kansas,0.2085
+Wichita,Kansas,0.1771
+Topeka,Kansas,0.1351
+Hilton Head Island-Beaufort,South Carolina,0.2056
+Cincinnati-Middletown,Kentucky,0.2051
+Louisville/Jefferson County,Kentucky,0.1877
+Lexington-Fayette,Kentucky,0.1306
+Clarksville,Kentucky,0.1218
+Evansville,Kentucky,0.0894
+Huntington-Ashland,Kentucky,0.0559
+Providence-New Bedford-Fall River,Rhode Island,0.2007
+Oklahoma City,Oklahoma,0.1969
+Tulsa,Oklahoma,0.1709
+Fort Smith,Oklahoma,0.1691
+Omaha-Council Bluffs,Nebraska,0.193
+Lincoln,Nebraska,0.0873
+Des Moines-West Des Moines,Iowa,0.1158
+Davenport-Moline-Rock Island,Iowa,0.114
+Cedar Rapids,Iowa,0.0717
+Omaha-Council Bluffs,Iowa,0.193
+Denver-Aurora-Broomfield,Colorado,0.1879
+Greeley,Colorado,0.1108
+Colorado Springs,Colorado,0.0791
+Johnson City,Tennessee,0.0604
+Fort Collins-Loveland,Colorado,0.0457
+Las Vegas-Paradise,Nevada,0.1754
+Reno-Sparks,Nevada,0.1322
+Albuquerque,New Mexico,0.1744
+Las Cruces,New Mexico,0.114
+Minneapolis-St. Paul-Bloomington,Minnesota,0.1594
+St. Cloud,Minnesota,0.0877
+Fargo,Minnesota,0.0685
+Duluth,Minnesota,0.0558
+Salt Lake City,Utah,0.1253
+Ogden-Clearfield,Utah,0.0789
+Provo-Orem,Utah,0.0586
+Salem,Oregon,0.1235
+Portland-Vancouver-Hillsboro,Oregon,0.1051
+Medford,Oregon,0.0615
+Eugene-Springfield,Oregon,0.053
+Anchorage,Alaska,0.1229
+Seaford,Delaware,0.1176
+Sioux Falls,South Dakota,0.0995
+Boise City-Nampa,Idaho,0.0709
+Daphne-Fairhope-Foley,Alabama,0.0897
+Fargo,North Dakota,0.0685
+Portland-South Portland-Biddeford,Maine,0.0527
+Burlington-South Burlington,Vermont,0.0526
+Boulder,Colorado,0.0808
