@@ -1,5 +1,6 @@
 const fs = require("fs");
 const { METRO_AREAS, STATE_NAMES } = require("../sharedValues")
+// data from: https://advisorsmith.com/data/coli/#city
 const dataArray = [
 	"Abilene,TX,89.1",
 	"Adrian,MI,90.5",
@@ -468,7 +469,7 @@ const dataArray = [
 	"Wilmington,NC,99",
 	"Wilson,NC,86.3",
 	"Winchester,VA,97.2",
-	"Winston-Salem,NC,91.2",
+	"Winston,NC,91.2",
 	"Wooster,OH,95.5",
 	"Worcester,MA,113.2",
 	"Yakima,WA,97.5",
@@ -511,25 +512,23 @@ const dataArray = [
 	"Daphne,AL,96.6",
 	"Victoria,TX,89.5",
 	"Aberdeen,WA,97.6",
+	"Poughkeepsie,NY,102.5", //found from https://www.bestplaces.net/cost_of_living/city/new_york/poughkeepsie
+	"Seaford,DE,94.3", //found from https://www.bestplaces.net/cost_of_living/city/delaware/seaford
 ]
 
-fs.writeFile("./costOfLiving.csv", "Metro Area,State,Cost of Living\n", err => {
+const results = []
+dataArray.forEach(data => {
+	const [city, state, costOfLiving] = data.split(",")
+	const stateName = STATE_NAMES[state]
+	const metroArea = METRO_AREAS.find(area => area.city.split("-").includes(city) && area.state.split("-").includes(stateName))
+
+	if (metroArea) {
+		results.push({metroAreaName: metroArea.metroAreaName, costOfLiving})
+	}
+})
+
+fs.writeFile("../outputs/costOfLiving.json", JSON.stringify(results), err => {
 	if (err) {
 		console.error(err)
 	}
 })
-
-dataArray.forEach(data => {
-	const [city, state, costOfLiving] = data.split(",")
-	const stateName = STATE_NAMES[state]
-	const metroArea = METRO_AREAS.find(area => area.metroName.split("-").includes(city) && area.state.split("-").includes(stateName))
-
-	if (metroArea) {
-		fs.appendFile("./costOfLiving.csv", `${metroArea.metroName},${stateName},${costOfLiving}\n`, err => {
-			if (err) {
-				console.error(err)
-			}
-		})
-	}
-})
-

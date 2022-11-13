@@ -1,0 +1,1107 @@
+[
+	{
+		"metroAreaName": "New York-Northern New Jersey-Long Island, New York-New Jersey-Pennsylvania",
+		"divergence": 0.4302,
+		"costOfLiving": "128"
+	},
+	{
+		"metroAreaName": "Chicago-Joliet-Naperville, Illinois-Indiana-Wisconsin",
+		"divergence": 0.428,
+		"costOfLiving": "100.1"
+	},
+	{
+		"metroAreaName": "Milwaukee-Waukesha-West Allis, Wisconsin",
+		"divergence": 0.3811,
+		"costOfLiving": "93.8"
+	},
+	{
+		"metroAreaName": "Detroit-Warren-Livonia, Michigan",
+		"divergence": 0.3789,
+		"costOfLiving": "93.2"
+	},
+	{
+		"metroAreaName": "Miami-Fort Lauderdale-Pompano Beach, Florida",
+		"divergence": 0.3702,
+		"costOfLiving": "110.1"
+	},
+	{
+		"metroAreaName": "Los Angeles-Long Beach-Santa Ana, California",
+		"divergence": 0.3534,
+		"costOfLiving": "140.6"
+	},
+	{
+		"metroAreaName": "Trenton-Ewing, New Jersey",
+		"divergence": 0.3455,
+		"costOfLiving": "104.3"
+	},
+	{
+		"metroAreaName": "Cleveland-Elyria-Mentor, Ohio",
+		"divergence": 0.3324,
+		"costOfLiving": "90"
+	},
+	{
+		"metroAreaName": "Philadelphia-Camden-Wilmington, Pennsylvania-New Jersey-Delaware-Maryland",
+		"divergence": 0.3294,
+		"costOfLiving": "103.4"
+	},
+	{
+		"metroAreaName": "Beaumont-Port Arthur, Texas",
+		"divergence": 0.3233,
+		"costOfLiving": "88.6"
+	},
+	{
+		"metroAreaName": "New Orleans-Metairie-Kenner, Louisiana",
+		"divergence": 0.323,
+		"costOfLiving": "92.4"
+	},
+	{
+		"metroAreaName": "Atlanta-Sandy Springs-Marietta, Georgia",
+		"divergence": 0.3203,
+		"costOfLiving": "100.3"
+	},
+	{
+		"metroAreaName": "Memphis, Tennessee-Mississippi-Arkansas",
+		"divergence": 0.3155,
+		"costOfLiving": "88.2"
+	},
+	{
+		"metroAreaName": "Baltimore-Towson, Maryland",
+		"divergence": 0.312,
+		"costOfLiving": "107"
+	},
+	{
+		"metroAreaName": "Washington-Arlington-Alexandria, Washington DC-Virginia-Maryland-West Virginia",
+		"divergence": 0.3118,
+		"costOfLiving": "120.1"
+	},
+	{
+		"metroAreaName": "Houston-Sugar Land-Baytown, Texas",
+		"divergence": 0.2995,
+		"costOfLiving": "95.8"
+	},
+	{
+		"metroAreaName": "Birmingham-Hoover, Alabama",
+		"divergence": 0.2954,
+		"costOfLiving": "90.7"
+	},
+	{
+		"metroAreaName": "Dallas-Fort Worth-Arlington, Texas",
+		"divergence": 0.2864,
+		"costOfLiving": "98.5"
+	},
+	{
+		"metroAreaName": "St. Louis, Missouri-Illinois",
+		"divergence": 0.2822,
+		"costOfLiving": "89.6"
+	},
+	{
+		"metroAreaName": "Salinas, California",
+		"divergence": 0.2755,
+		"costOfLiving": "138.3"
+	},
+	{
+		"metroAreaName": "Buffalo-Niagara Falls, New York",
+		"divergence": 0.27,
+		"costOfLiving": "97.3"
+	},
+	{
+		"metroAreaName": "Baton Rouge, Louisiana",
+		"divergence": 0.2689,
+		"costOfLiving": "91.1"
+	},
+	{
+		"metroAreaName": "Hartford-West Hartford-East Hartford, Connecticut",
+		"divergence": 0.268,
+		"costOfLiving": "104.8"
+	},
+	{
+		"metroAreaName": "Mobile, Alabama",
+		"divergence": 0.2671,
+		"costOfLiving": "88.3"
+	},
+	{
+		"metroAreaName": "San Francisco-Oakland-Fremont, California",
+		"divergence": 0.2648,
+		"costOfLiving": "178.6"
+	},
+	{
+		"metroAreaName": "Flint, Michigan",
+		"divergence": 0.2642,
+		"costOfLiving": "85.7"
+	},
+	{
+		"metroAreaName": "Atlantic City-Hammonton, New Jersey",
+		"divergence": 0.2635,
+		"costOfLiving": "102"
+	},
+	{
+		"metroAreaName": "Boston-Cambridge-Quincy, Massachusetts-New Hampshire",
+		"divergence": 0.2556,
+		"costOfLiving": "132.6"
+	},
+	{
+		"metroAreaName": "Jackson, Mississippi",
+		"divergence": 0.2532,
+		"costOfLiving": "87.8"
+	},
+	{
+		"metroAreaName": "Tuscaloosa, Alabama",
+		"divergence": 0.2531,
+		"costOfLiving": "91"
+	},
+	{
+		"metroAreaName": "Montgomery, Alabama",
+		"divergence": 0.2494,
+		"costOfLiving": "88.5"
+	},
+	{
+		"metroAreaName": "Springfield, Massachusetts",
+		"divergence": 0.2461,
+		"costOfLiving": "106.5"
+	},
+	{
+		"metroAreaName": "Lake Charles, Louisiana",
+		"divergence": 0.2451,
+		"costOfLiving": "89.4"
+	},
+	{
+		"metroAreaName": "Bridgeport-Stamford-Norwalk, Connecticut",
+		"divergence": 0.2424,
+		"costOfLiving": "119.2"
+	},
+	{
+		"metroAreaName": "Reading, Pennsylvania",
+		"divergence": 0.2385,
+		"costOfLiving": "96"
+	},
+	{
+		"metroAreaName": "Shreveport-Bossier City, Louisiana",
+		"divergence": 0.2375,
+		"costOfLiving": "85.8"
+	},
+	{
+		"metroAreaName": "Bakersfield-Delano, California",
+		"divergence": 0.2368,
+		"costOfLiving": "102.9"
+	},
+	{
+		"metroAreaName": "San Diego-Carlsbad-San Marcos, California",
+		"divergence": 0.2364,
+		"costOfLiving": "136.2"
+	},
+	{
+		"metroAreaName": "Richmond, Virginia",
+		"divergence": 0.2335,
+		"costOfLiving": "99.2"
+	},
+	{
+		"metroAreaName": "New Haven-Milford, Connecticut",
+		"divergence": 0.2333,
+		"costOfLiving": "107.7"
+	},
+	{
+		"metroAreaName": "Yakima, Washington",
+		"divergence": 0.2324,
+		"costOfLiving": "97.5"
+	},
+	{
+		"metroAreaName": "Indianapolis-Carmel, Indiana",
+		"divergence": 0.2322,
+		"costOfLiving": "90.2"
+	},
+	{
+		"metroAreaName": "Columbus, Georgia-Alabama",
+		"divergence": 0.229,
+		"costOfLiving": "88.5"
+	},
+	{
+		"metroAreaName": "Greensboro-High Point, North Carolina",
+		"divergence": 0.2287,
+		"costOfLiving": "91"
+	},
+	{
+		"metroAreaName": "San Jose-Sunnyvale-Santa Clara, California",
+		"divergence": 0.2258,
+		"costOfLiving": "173.5"
+	},
+	{
+		"metroAreaName": "Winston-Salem, North Carolina",
+		"divergence": 0.2257,
+		"costOfLiving": "91.2"
+	},
+	{
+		"metroAreaName": "Little Rock-North Little Rock-Conway, Arkansas",
+		"divergence": 0.2243,
+		"costOfLiving": "88"
+	},
+	{
+		"metroAreaName": "Charlotte-Gastonia-Rock Hill, North Carolina-South Carolina",
+		"divergence": 0.2236,
+		"costOfLiving": "97.9"
+	},
+	{
+		"metroAreaName": "Phoenix-Mesa-Glendale, Arizona",
+		"divergence": 0.2199,
+		"costOfLiving": "104.3"
+	},
+	{
+		"metroAreaName": "Santa Cruz-Watsonville, California",
+		"divergence": 0.2183,
+		"costOfLiving": "163.9"
+	},
+	{
+		"metroAreaName": "Dayton, Ohio",
+		"divergence": 0.2178,
+		"costOfLiving": "88.4"
+	},
+	{
+		"metroAreaName": "Oxnard-Thousand Oaks-Ventura, California",
+		"divergence": 0.2166,
+		"costOfLiving": "132.2"
+	},
+	{
+		"metroAreaName": "Tucson, Arizona",
+		"divergence": 0.2158,
+		"costOfLiving": "97.7"
+	},
+	{
+		"metroAreaName": "Columbus, Ohio",
+		"divergence": 0.2145,
+		"costOfLiving": "93.9"
+	},
+	{
+		"metroAreaName": "Amarillo, Texas",
+		"divergence": 0.2144,
+		"costOfLiving": "88.2"
+	},
+	{
+		"metroAreaName": "Yuma, Arizona",
+		"divergence": 0.2143,
+		"costOfLiving": "94.5"
+	},
+	{
+		"metroAreaName": "Rochester, New York",
+		"divergence": 0.2131,
+		"costOfLiving": "96.6"
+	},
+	{
+		"metroAreaName": "Naples-Marco Island, Florida",
+		"divergence": 0.2127,
+		"costOfLiving": "109.4"
+	},
+	{
+		"metroAreaName": "Orlando-Kissimmee-Sanford, Florida",
+		"divergence": 0.2111,
+		"costOfLiving": "101.4"
+	},
+	{
+		"metroAreaName": "Macon, Georgia",
+		"divergence": 0.2105,
+		"costOfLiving": "87.2"
+	},
+	{
+		"metroAreaName": "Honolulu, Hawaii",
+		"divergence": 0.209,
+		"costOfLiving": "158"
+	},
+	{
+		"metroAreaName": "Kansas City, Missouri-Kansas",
+		"divergence": 0.2085,
+		"costOfLiving": "91.6"
+	},
+	{
+		"metroAreaName": "Columbia, South Carolina",
+		"divergence": 0.2071,
+		"costOfLiving": "91.9"
+	},
+	{
+		"metroAreaName": "Hilton Head Island-Beaufort, South Carolina",
+		"divergence": 0.2056,
+		"costOfLiving": "109.4"
+	},
+	{
+		"metroAreaName": "Savannah, Georgia",
+		"divergence": 0.2054,
+		"costOfLiving": "97.3"
+	},
+	{
+		"metroAreaName": "Cincinnati-Middletown, Ohio-Kentucky-Indiana",
+		"divergence": 0.2051,
+		"costOfLiving": "92.4"
+	},
+	{
+		"metroAreaName": "Durham-Chapel Hill, North Carolina",
+		"divergence": 0.2039,
+		"costOfLiving": "99.8"
+	},
+	{
+		"metroAreaName": "Jacksonville, Florida",
+		"divergence": 0.2035,
+		"costOfLiving": "99"
+	},
+	{
+		"metroAreaName": "Providence-New Bedford-Fall River, Rhode Island-Massachusetts",
+		"divergence": 0.2007,
+		"costOfLiving": "111.5"
+	},
+	{
+		"metroAreaName": "Oklahoma City, Oklahoma",
+		"divergence": 0.1969,
+		"costOfLiving": "87.3"
+	},
+	{
+		"metroAreaName": "Chattanooga, Tennessee-Georgia",
+		"divergence": 0.1959,
+		"costOfLiving": "91.2"
+	},
+	{
+		"metroAreaName": "Fresno, California",
+		"divergence": 0.195,
+		"costOfLiving": "105.9"
+	},
+	{
+		"metroAreaName": "Omaha-Council Bluffs, Nebraska-Iowa",
+		"divergence": 0.193,
+		"costOfLiving": "92.9"
+	},
+	{
+		"metroAreaName": "Tampa-St. Petersburg-Clearwater, Florida",
+		"divergence": 0.1926,
+		"costOfLiving": "101.4"
+	},
+	{
+		"metroAreaName": "Virginia Beach-Norfolk-Newport News, Virginia-North Carolina",
+		"divergence": 0.1925,
+		"costOfLiving": "99"
+	},
+	{
+		"metroAreaName": "Tyler, Texas",
+		"divergence": 0.1905,
+		"costOfLiving": "92.8"
+	},
+	{
+		"metroAreaName": "Santa Barbara-Santa Maria-Goleta, California",
+		"divergence": 0.1896,
+		"costOfLiving": "143"
+	},
+	{
+		"metroAreaName": "San Antonio-New Braunfels, Texas",
+		"divergence": 0.1881,
+		"costOfLiving": "92.7"
+	},
+	{
+		"metroAreaName": "Denver-Aurora-Broomfield, Colorado",
+		"divergence": 0.1879,
+		"costOfLiving": "112.1"
+	},
+	{
+		"metroAreaName": "Louisville-Jefferson County, Kentucky-Indiana",
+		"divergence": 0.1877,
+		"costOfLiving": "91.6"
+	},
+	{
+		"metroAreaName": "Fort Wayne, Indiana",
+		"divergence": 0.1871,
+		"costOfLiving": "86.8"
+	},
+	{
+		"metroAreaName": "Sacramento-Arden-Arcade-Roseville, California",
+		"divergence": 0.1869,
+		"costOfLiving": "120.3"
+	},
+	{
+		"metroAreaName": "Harrisburg-Carlisle, Pennsylvania",
+		"divergence": 0.1857,
+		"costOfLiving": "95.8"
+	},
+	{
+		"metroAreaName": "Peoria, Illinois",
+		"divergence": 0.1853,
+		"costOfLiving": "86.7"
+	},
+	{
+		"metroAreaName": "Nashville-Davidson-Murfreesboro-Franklin, Tennessee",
+		"divergence": 0.185,
+		"costOfLiving": "100.1"
+	},
+	{
+		"metroAreaName": "Augusta-Richmond County, Georgia-South Carolina",
+		"divergence": 0.184,
+		"costOfLiving": "91.6"
+	},
+	{
+		"metroAreaName": "Toledo, Ohio",
+		"divergence": 0.1818,
+		"costOfLiving": "87.5"
+	},
+	{
+		"metroAreaName": "Riverside-San Bernardino-Ontario, California",
+		"divergence": 0.1813,
+		"costOfLiving": "116.1"
+	},
+	{
+		"metroAreaName": "Champaign-Urbana, Illinois",
+		"divergence": 0.181,
+		"costOfLiving": "89"
+	},
+	{
+		"metroAreaName": "Cape Coral-Fort Myers, Florida",
+		"divergence": 0.1806,
+		"costOfLiving": "101.5"
+	},
+	{
+		"metroAreaName": "South Bend-Mishawaka, Indiana-Michigan",
+		"divergence": 0.1788,
+		"costOfLiving": "87.2"
+	},
+	{
+		"metroAreaName": "Ann Arbor, Michigan",
+		"divergence": 0.1781,
+		"costOfLiving": "99.3"
+	},
+	{
+		"metroAreaName": "Raleigh-Cary, North Carolina",
+		"divergence": 0.1775,
+		"costOfLiving": "99.7"
+	},
+	{
+		"metroAreaName": "Grand Rapids-Wyoming, Michigan",
+		"divergence": 0.1774,
+		"costOfLiving": "93.7"
+	},
+	{
+		"metroAreaName": "Wichita, Kansas",
+		"divergence": 0.1771,
+		"costOfLiving": "86.8"
+	},
+	{
+		"metroAreaName": "Waco, Texas",
+		"divergence": 0.1759,
+		"costOfLiving": "89.5"
+	},
+	{
+		"metroAreaName": "Las Vegas-Paradise, Nevada",
+		"divergence": 0.1754,
+		"costOfLiving": "100.7"
+	},
+	{
+		"metroAreaName": "Rockford, Illinois",
+		"divergence": 0.1751,
+		"costOfLiving": "87.2"
+	},
+	{
+		"metroAreaName": "Albuquerque, New Mexico",
+		"divergence": 0.1744,
+		"costOfLiving": "92.9"
+	},
+	{
+		"metroAreaName": "Syracuse, New York",
+		"divergence": 0.1731,
+		"costOfLiving": "95.1"
+	},
+	{
+		"metroAreaName": "Allentown-Bethlehem-Easton, Pennsylvania-New Jersey",
+		"divergence": 0.1723,
+		"costOfLiving": "98.9"
+	},
+	{
+		"metroAreaName": "Tulsa, Oklahoma",
+		"divergence": 0.1709,
+		"costOfLiving": "86.7"
+	},
+	{
+		"metroAreaName": "Austin-Round Rock-San Marcos, Texas",
+		"divergence": 0.1695,
+		"costOfLiving": "106.6"
+	},
+	{
+		"metroAreaName": "Fort Smith, Arkansas-Oklahoma",
+		"divergence": 0.1691,
+		"costOfLiving": "84.2"
+	},
+	{
+		"metroAreaName": "Huntsville, Alabama",
+		"divergence": 0.1685,
+		"costOfLiving": "91.3"
+	},
+	{
+		"metroAreaName": "Youngstown-Warren-Boardman, Ohio-Pennsylvania",
+		"divergence": 0.1682,
+		"costOfLiving": "86.4"
+	},
+	{
+		"metroAreaName": "College Station-Bryan, Texas",
+		"divergence": 0.1677,
+		"costOfLiving": "92.3"
+	},
+	{
+		"metroAreaName": "Stockton, California",
+		"divergence": 0.1671,
+		"costOfLiving": "113.6"
+	},
+	{
+		"metroAreaName": "Tallahassee, Florida",
+		"divergence": 0.1659,
+		"costOfLiving": "96.4"
+	},
+	{
+		"metroAreaName": "Port St. Lucie, Florida",
+		"divergence": 0.1651,
+		"costOfLiving": "101.1"
+	},
+	{
+		"metroAreaName": "Akron, Ohio",
+		"divergence": 0.165,
+		"costOfLiving": "89.4"
+	},
+	{
+		"metroAreaName": "Roanoke, Virginia",
+		"divergence": 0.1648,
+		"costOfLiving": "94.1"
+	},
+	{
+		"metroAreaName": "Athens-Clarke County, Georgia",
+		"divergence": 0.1628,
+		"costOfLiving": "95"
+	},
+	{
+		"metroAreaName": "Deltona-Daytona Beach-Ormond Beach, Florida",
+		"divergence": 0.161,
+		"costOfLiving": "99.6"
+	},
+	{
+		"metroAreaName": "Corpus Christi, Texas",
+		"divergence": 0.1594,
+		"costOfLiving": "93.3"
+	},
+	{
+		"metroAreaName": "Minneapolis-St. Paul-Bloomington, Minnesota-Wisconsin",
+		"divergence": 0.1594,
+		"costOfLiving": "105.4"
+	},
+	{
+		"metroAreaName": "Lakeland-Winter Haven, Florida",
+		"divergence": 0.1592,
+		"costOfLiving": "96.4"
+	},
+	{
+		"metroAreaName": "Kennewick-Pasco-Richland, Washington",
+		"divergence": 0.1589,
+		"costOfLiving": "99.7"
+	},
+	{
+		"metroAreaName": "Fayetteville-Springdale-Rogers, Arkansas-Missouri",
+		"divergence": 0.157,
+		"costOfLiving": "90.4"
+	},
+	{
+		"metroAreaName": "Vallejo-Fairfield, California",
+		"divergence": 0.1553,
+		"costOfLiving": "125.2"
+	},
+	{
+		"metroAreaName": "Utica-Rome, New York",
+		"divergence": 0.1548,
+		"costOfLiving": "94.1"
+	},
+	{
+		"metroAreaName": "Lafayette, Louisiana",
+		"divergence": 0.1538,
+		"costOfLiving": "89.6"
+	},
+	{
+		"metroAreaName": "Pittsburgh, Pennsylvania",
+		"divergence": 0.1529,
+		"costOfLiving": "93.1"
+	},
+	{
+		"metroAreaName": "Albany-Schenectady-Troy, New York",
+		"divergence": 0.1507,
+		"costOfLiving": "100.1"
+	},
+	{
+		"metroAreaName": "Lubbock, Texas",
+		"divergence": 0.1495,
+		"costOfLiving": "88.8"
+	},
+	{
+		"metroAreaName": "Worcester, Massachusetts",
+		"divergence": 0.149,
+		"costOfLiving": "113.2"
+	},
+	{
+		"metroAreaName": "Charleston-North Charleston-Summerville, South Carolina",
+		"divergence": 0.1468,
+		"costOfLiving": "101.7"
+	},
+	{
+		"metroAreaName": "Seattle-Tacoma-Bellevue, Washington",
+		"divergence": 0.1468,
+		"costOfLiving": "124.6"
+	},
+	{
+		"metroAreaName": "Scranton-Wilkes-Barre, Pennsylvania",
+		"divergence": 0.1451,
+		"costOfLiving": "91.3"
+	},
+	{
+		"metroAreaName": "Florence, South Carolina",
+		"divergence": 0.1437,
+		"costOfLiving": "87.7"
+	},
+	{
+		"metroAreaName": "North Port-Bradenton-Sarasota, Florida",
+		"divergence": 0.1437,
+		"costOfLiving": "104.4"
+	},
+	{
+		"metroAreaName": "Lansing-East Lansing, Michigan",
+		"divergence": 0.1432,
+		"costOfLiving": "88.7"
+	},
+	{
+		"metroAreaName": "Poughkeepsie-Newburgh-Middletown, New York",
+		"divergence": 0.1421,
+		"costOfLiving": "102.5"
+	},
+	{
+		"metroAreaName": "Springfield, Illinois",
+		"divergence": 0.1411,
+		"costOfLiving": "87.5"
+	},
+	{
+		"metroAreaName": "Greenville-Mauldin-Easley, South Carolina",
+		"divergence": 0.1396,
+		"costOfLiving": "95"
+	},
+	{
+		"metroAreaName": "Gainesville, Florida",
+		"divergence": 0.1392,
+		"costOfLiving": "97.3"
+	},
+	{
+		"metroAreaName": "Gulfport-Biloxi, Mississippi",
+		"divergence": 0.1369,
+		"costOfLiving": "86.8"
+	},
+	{
+		"metroAreaName": "Houma-Bayou Cane-Thibodaux, Louisiana",
+		"divergence": 0.136,
+		"costOfLiving": "89.9"
+	},
+	{
+		"metroAreaName": "Topeka, Kansas",
+		"divergence": 0.1351,
+		"costOfLiving": "85.6"
+	},
+	{
+		"metroAreaName": "Killeen-Temple-Fort Hood, Texas",
+		"divergence": 0.1331,
+		"costOfLiving": "88.6"
+	},
+	{
+		"metroAreaName": "Reno-Sparks, Nevada",
+		"divergence": 0.1322,
+		"costOfLiving": "107.4"
+	},
+	{
+		"metroAreaName": "Lexington-Fayette, Kentucky",
+		"divergence": 0.1306,
+		"costOfLiving": "91.1"
+	},
+	{
+		"metroAreaName": "Spartanburg, South Carolina",
+		"divergence": 0.1298,
+		"costOfLiving": "91"
+	},
+	{
+		"metroAreaName": "Pensacola-Ferry Pass-Brent, Florida",
+		"divergence": 0.1294,
+		"costOfLiving": "97.9"
+	},
+	{
+		"metroAreaName": "Lancaster, Pennsylvania",
+		"divergence": 0.1288,
+		"costOfLiving": "99.5"
+	},
+	{
+		"metroAreaName": "Erie, Pennsylvania",
+		"divergence": 0.1284,
+		"costOfLiving": "91.8"
+	},
+	{
+		"metroAreaName": "Visalia-Porterville, California",
+		"divergence": 0.1264,
+		"costOfLiving": "103.6"
+	},
+	{
+		"metroAreaName": "Ocala, Florida",
+		"divergence": 0.1257,
+		"costOfLiving": "94.5"
+	},
+	{
+		"metroAreaName": "Lafayette, Indiana",
+		"divergence": 0.1255,
+		"costOfLiving": "88.7"
+	},
+	{
+		"metroAreaName": "Salt Lake City, Utah",
+		"divergence": 0.1253,
+		"costOfLiving": "105.9"
+	},
+	{
+		"metroAreaName": "Norwich-New London, Connecticut",
+		"divergence": 0.1242,
+		"costOfLiving": "105.9"
+	},
+	{
+		"metroAreaName": "Salem, Oregon",
+		"divergence": 0.1235,
+		"costOfLiving": "105.8"
+	},
+	{
+		"metroAreaName": "Anchorage, Alaska",
+		"divergence": 0.1229,
+		"costOfLiving": "110.7"
+	},
+	{
+		"metroAreaName": "Green Bay, Wisconsin",
+		"divergence": 0.1225,
+		"costOfLiving": "91.4"
+	},
+	{
+		"metroAreaName": "Clarksville, Tennessee-Kentucky",
+		"divergence": 0.1218,
+		"costOfLiving": "88.7"
+	},
+	{
+		"metroAreaName": "Kalamazoo-Portage, Michigan",
+		"divergence": 0.121,
+		"costOfLiving": "89.3"
+	},
+	{
+		"metroAreaName": "Modesto, California",
+		"divergence": 0.1209,
+		"costOfLiving": "112.3"
+	},
+	{
+		"metroAreaName": "York-Hanover, Pennsylvania",
+		"divergence": 0.12,
+		"costOfLiving": "95.8"
+	},
+	{
+		"metroAreaName": "Wilmington, North Carolina",
+		"divergence": 0.1192,
+		"costOfLiving": "99"
+	},
+	{
+		"metroAreaName": "Seaford, Delaware",
+		"divergence": 0.1176,
+		"costOfLiving": "94.3"
+	},
+	{
+		"metroAreaName": "Des Moines-West Des Moines, Iowa",
+		"divergence": 0.1158,
+		"costOfLiving": "91.7"
+	},
+	{
+		"metroAreaName": "Longview, Texas",
+		"divergence": 0.1147,
+		"costOfLiving": "88.5"
+	},
+	{
+		"metroAreaName": "Davenport-Moline-Rock Island, Iowa-Illinois",
+		"divergence": 0.114,
+		"costOfLiving": "87.2"
+	},
+	{
+		"metroAreaName": "Las Cruces, New Mexico",
+		"divergence": 0.114,
+		"costOfLiving": "88.8"
+	},
+	{
+		"metroAreaName": "Myrtle Beach-North Myrtle Beach-Conway, South Carolina",
+		"divergence": 0.1132,
+		"costOfLiving": "94.7"
+	},
+	{
+		"metroAreaName": "Greeley, Colorado",
+		"divergence": 0.1108,
+		"costOfLiving": "106.1"
+	},
+	{
+		"metroAreaName": "Merced, California",
+		"divergence": 0.1108,
+		"costOfLiving": "108.2"
+	},
+	{
+		"metroAreaName": "Knoxville, Tennessee",
+		"divergence": 0.1088,
+		"costOfLiving": "91.6"
+	},
+	{
+		"metroAreaName": "Elkhart-Goshen, Indiana",
+		"divergence": 0.107,
+		"costOfLiving": "88.5"
+	},
+	{
+		"metroAreaName": "Fayetteville, North Carolina",
+		"divergence": 0.1068,
+		"costOfLiving": "89.5"
+	},
+	{
+		"metroAreaName": "Hickory-Lenoir-Morganton, North Carolina",
+		"divergence": 0.106,
+		"costOfLiving": "89.8"
+	},
+	{
+		"metroAreaName": "Portland-Vancouver-Hillsboro, Oregon-Washington",
+		"divergence": 0.1051,
+		"costOfLiving": "116.5"
+	},
+	{
+		"metroAreaName": "Canton-Massillon, Ohio",
+		"divergence": 0.1028,
+		"costOfLiving": "88.2"
+	},
+	{
+		"metroAreaName": "Santa Rosa-Petaluma, California",
+		"divergence": 0.1024,
+		"costOfLiving": "141.7"
+	},
+	{
+		"metroAreaName": "Lynchburg, Virginia",
+		"divergence": 0.1009,
+		"costOfLiving": "93.6"
+	},
+	{
+		"metroAreaName": "Palm Bay-Melbourne-Titusville, Florida",
+		"divergence": 0.1007,
+		"costOfLiving": "99.3"
+	},
+	{
+		"metroAreaName": "Sioux Falls, South Dakota",
+		"divergence": 0.0995,
+		"costOfLiving": "92.8"
+	},
+	{
+		"metroAreaName": "El Paso, Texas",
+		"divergence": 0.0986,
+		"costOfLiving": "88.6"
+	},
+	{
+		"metroAreaName": "Madison, Wisconsin",
+		"divergence": 0.0944,
+		"costOfLiving": "99.5"
+	},
+	{
+		"metroAreaName": "Binghamton, New York",
+		"divergence": 0.0928,
+		"costOfLiving": "93.3"
+	},
+	{
+		"metroAreaName": "Charlottesville, Virginia",
+		"divergence": 0.0924,
+		"costOfLiving": "102.1"
+	},
+	{
+		"metroAreaName": "Holland-Grand Haven, Michigan",
+		"divergence": 0.0917,
+		"costOfLiving": "96.2"
+	},
+	{
+		"metroAreaName": "Manchester-Nashua, New Hampshire",
+		"divergence": 0.09,
+		"costOfLiving": "109.6"
+	},
+	{
+		"metroAreaName": "Daphne-Fairhope-Foley, Alabama",
+		"divergence": 0.0897,
+		"costOfLiving": "96.6"
+	},
+	{
+		"metroAreaName": "Evansville, Indiana-Kentucky",
+		"divergence": 0.0894,
+		"costOfLiving": "87.2"
+	},
+	{
+		"metroAreaName": "St. Cloud, Minnesota",
+		"divergence": 0.0877,
+		"costOfLiving": "95.4"
+	},
+	{
+		"metroAreaName": "Lincoln, Nebraska",
+		"divergence": 0.0873,
+		"costOfLiving": "94.7"
+	},
+	{
+		"metroAreaName": "San Luis Obispo-Paso Robles, California",
+		"divergence": 0.0873,
+		"costOfLiving": "136.1"
+	},
+	{
+		"metroAreaName": "Charleston, West Virginia",
+		"divergence": 0.084,
+		"costOfLiving": "83.9"
+	},
+	{
+		"metroAreaName": "Lake Havasu City-Kingman, Arizona",
+		"divergence": 0.084,
+		"costOfLiving": "98.4"
+	},
+	{
+		"metroAreaName": "Asheville, North Carolina",
+		"divergence": 0.0835,
+		"costOfLiving": "103.3"
+	},
+	{
+		"metroAreaName": "Boulder, Colorado",
+		"divergence": 0.0808,
+		"costOfLiving": "118.7"
+	},
+	{
+		"metroAreaName": "Colorado Springs, Colorado",
+		"divergence": 0.0791,
+		"costOfLiving": "102.2"
+	},
+	{
+		"metroAreaName": "Chico, California",
+		"divergence": 0.0789,
+		"costOfLiving": "110.5"
+	},
+	{
+		"metroAreaName": "Hagerstown-Martinsburg, Maryland-West Virginia",
+		"divergence": 0.0789,
+		"costOfLiving": "99.7"
+	},
+	{
+		"metroAreaName": "Ogden-Clearfield, Utah",
+		"divergence": 0.0789,
+		"costOfLiving": "99.8"
+	},
+	{
+		"metroAreaName": "Appleton, Wisconsin",
+		"divergence": 0.078,
+		"costOfLiving": "90.7"
+	},
+	{
+		"metroAreaName": "Cedar Rapids, Iowa",
+		"divergence": 0.0717,
+		"costOfLiving": "88.1"
+	},
+	{
+		"metroAreaName": "Boise City-Nampa, Idaho",
+		"divergence": 0.0709,
+		"costOfLiving": "100.3"
+	},
+	{
+		"metroAreaName": "Bellingham, Washington",
+		"divergence": 0.0696,
+		"costOfLiving": "111.6"
+	},
+	{
+		"metroAreaName": "Barnstable Town, Massachusetts",
+		"divergence": 0.0692,
+		"costOfLiving": "122.4"
+	},
+	{
+		"metroAreaName": "Fargo, North Dakota-Minnesota",
+		"divergence": 0.0685,
+		"costOfLiving": "91.4"
+	},
+	{
+		"metroAreaName": "Olympia, Washington",
+		"divergence": 0.0671,
+		"costOfLiving": "110.9"
+	},
+	{
+		"metroAreaName": "Bremerton-Silverdale, Washington",
+		"divergence": 0.0648,
+		"costOfLiving": "115"
+	},
+	{
+		"metroAreaName": "Medford, Oregon",
+		"divergence": 0.0615,
+		"costOfLiving": "107.5"
+	},
+	{
+		"metroAreaName": "Johnson City, Tennessee",
+		"divergence": 0.0604,
+		"costOfLiving": "88.1"
+	},
+	{
+		"metroAreaName": "Provo-Orem, Utah",
+		"divergence": 0.0586,
+		"costOfLiving": "100.9"
+	},
+	{
+		"metroAreaName": "McAllen-Edinburg-Mission, Texas",
+		"divergence": 0.0582,
+		"costOfLiving": "86"
+	},
+	{
+		"metroAreaName": "Brownsville-Harlingen, Texas",
+		"divergence": 0.0575,
+		"costOfLiving": "87.8"
+	},
+	{
+		"metroAreaName": "Huntington-Ashland, West Virginia-Kentucky-Ohio",
+		"divergence": 0.0559,
+		"costOfLiving": "84.3"
+	},
+	{
+		"metroAreaName": "Duluth, Minnesota-Wisconsin",
+		"divergence": 0.0558,
+		"costOfLiving": "93.2"
+	},
+	{
+		"metroAreaName": "Crestview-Fort Walton Beach-Destin, Florida",
+		"divergence": 0.0537,
+		"costOfLiving": "104.7"
+	},
+	{
+		"metroAreaName": "Prescott, Arizona",
+		"divergence": 0.0531,
+		"costOfLiving": "104.6"
+	},
+	{
+		"metroAreaName": "Eugene-Springfield, Oregon",
+		"divergence": 0.053,
+		"costOfLiving": "108.4"
+	},
+	{
+		"metroAreaName": "Portland-South Portland-Biddeford, Maine",
+		"divergence": 0.0527,
+		"costOfLiving": "113"
+	},
+	{
+		"metroAreaName": "Burlington-South Burlington, Vermont",
+		"divergence": 0.0526,
+		"costOfLiving": "112.8"
+	},
+	{
+		"metroAreaName": "Spokane, Washington",
+		"divergence": 0.0507,
+		"costOfLiving": "100.4"
+	},
+	{
+		"metroAreaName": "Springfield, Missouri",
+		"divergence": 0.0487,
+		"costOfLiving": "86.7"
+	},
+	{
+		"metroAreaName": "Fort Collins-Loveland, Colorado",
+		"divergence": 0.0457,
+		"costOfLiving": "109.2"
+	},
+	{
+		"metroAreaName": "Kingsport-Bristol-Bristol, Tennessee-Virginia",
+		"divergence": 0.0377,
+		"costOfLiving": "86"
+	},
+	{
+		"metroAreaName": "Laredo, Texas",
+		"divergence": 0.0258,
+		"costOfLiving": "90.1"
+	}
+]
