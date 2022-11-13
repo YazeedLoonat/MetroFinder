@@ -1,5 +1,6 @@
 const fs = require("fs");
-const { STATE_NAMES } = require("../sharedValues")
+const { STATE_NAMES, METRO_AREAS } = require("../sharedValues")
+// data from: https://belonging.berkeley.edu/most-least-segregated-metro-regions
 const dataArray = [
 	{ metroArea: "New York-Northern New Jersey-Long Island, NY-NJ-PA", divergence: 0.4302},
 	{ metroArea: "Chicago-Joliet-Naperville, IL-IN-WI", divergence: 0.428},
@@ -80,7 +81,7 @@ const dataArray = [
 	{ metroArea: "Santa Barbara-Santa Maria-Goleta, CA", divergence: 0.1896},
 	{ metroArea: "San Antonio-New Braunfels, TX", divergence: 0.1881},
 	{ metroArea: "Denver-Aurora-Broomfield, CO", divergence: 0.1879},
-	{ metroArea: "Louisville/Jefferson County, KY-IN", divergence: 0.1877},
+	{ metroArea: "Louisville-Jefferson County, KY-IN", divergence: 0.1877},
 	{ metroArea: "Fort Wayne, IN", divergence: 0.1871},
 	{ metroArea: "Sacramento--Arden-Arcade--Roseville, CA", divergence: 0.1869},
 	{ metroArea: "Harrisburg-Carlisle, PA", divergence: 0.1857},
@@ -224,41 +225,38 @@ const dataArray = [
 	{ metroArea: "Laredo, TX", divergence: 0.0258}
 ]
 
-const results = {}
-
+const results = []
 dataArray.forEach(data => {
-	let [metroInfo, stateInfo] = data.metroArea.split(", ")
-	stateInfo = stateInfo.split("-")
+	let [cityInfo, stateInfo] = data.metroArea.split(", ")
+	const citiesFromData = cityInfo.split("-")
+	const statesFromData = stateInfo.split("-")
 
-	stateInfo.forEach(state => {
-		if (results[state]) {
-			results[state].push({
-				metroArea: metroInfo,
-				divergence: data.divergence
-			})
-		} else {
-			results[state] = [{
-				metroArea: metroInfo,
-				divergence: data.divergence
-			}]
+	const matchesForCity = METRO_AREAS.find(metroAreaInfo => {
+		const citiesFromMetroArea = metroAreaInfo.city.split("-")
+		for (const city of citiesFromData) {
+			if (citiesFromMetroArea.includes(city)) {
+				// if we have a matching city name verify we have a matching state as well
+				const stateFromMetroArea = metroAreaInfo.state.split("-")
+				for (const state of statesFromData) {
+					if (stateFromMetroArea.includes(STATE_NAMES[state])) {
+						return true
+					}
+				}
+			}
 		}
+		return false
 	})
-})
 
-fs.writeFile("./divergenceData.csv", "Metro Area,State,Divergence\n", err => {
-	if (err) {
-		console.error(err)
+	if (matchesForCity) {
+		results.push({
+			metroAreaName: matchesForCity.metroAreaName,
+			divergence: data.divergence
+		})
 	}
 })
 
-Object.keys(results).forEach(state => {
-	results[state].forEach(metroInfo => {
-		const content = `${metroInfo.metroArea},${STATE_NAMES[state]},${metroInfo.divergence}\n`
-		fs.appendFile("./divergenceData.csv", content, err => {
-			if (err) {
-				console.error(err)
-			}
-		})
-	})
-
+fs.writeFile("../outputs/divergenceData.json", JSON.stringify(results), err => {
+	if (err) {
+		console.error(err)
+	}
 })
